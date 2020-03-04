@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <PackageId>Wizkisoft.DotNet.Factories</PackageId>
+    <Version>0.1.0</Version>
+    <Authors>Gerard Torres</Authors>
+    <Company>Wizkisoft</Company>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Wizkisoft.DotNet.Wrappers" Version="0.1.0" />
+  </ItemGroup>
+
+</Project>
